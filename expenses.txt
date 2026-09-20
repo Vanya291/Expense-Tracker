@@ -1,0 +1,2 @@
+Food,300
+shopping,300
